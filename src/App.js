@@ -23,3 +23,4 @@ function App() {
 
 export default App;
 //used Traversy Media guide
+//"build": "react-scripts build"
