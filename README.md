@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Expense Tracker using React
+by Tariq Saeed (http://www.tarbus.ca)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It uses Context, Hooks and Reducer.
 
 ## Available Scripts
 
